@@ -171,7 +171,8 @@ class App extends Component {
           showInfoWindow={this.showInfoWindow}
           hideInfoWindow={this.hideInfoWindow}
         />
-        <div id="map" />
+        <div id="map"
+        aria-labelledby="filter" />
       </div>
     );
   }

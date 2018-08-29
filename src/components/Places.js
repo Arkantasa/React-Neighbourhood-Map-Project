@@ -60,6 +60,7 @@ class Places extends Component {
         <input
           placeholder="Search..."
           className="search-input"
+          aria-labelledby="filter"
           onChange={this.filterPlaces}
           value={this.state.mapSearch} />
         <ul className="place-list">
