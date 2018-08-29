@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hamedina Square",
+    "lat": 32.0867646,
+    "lng": 34.78976558
+  },
+  {
+    "name": "Independence Park",
+    "lat": 32.0910994,
+    "lng": 34.7716729
+  },
+  {
+    "name": "Yarkon Park",
+    "lat": 32.099678,
+    "lng": 34.809094
+  },
+  {
+    "name": "Jaffa Port",
+    "lat": 32.05134276,
+    "lng": 34.74881173
+  },
+  {
+    "name": "Bursa",
+    "lat": 32.083475,
+    "lng": 34.801263
+  }
+]

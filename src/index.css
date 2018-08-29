@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+}
+
+.spot {
+  font-weight: 700;
+  font-size: 1em;
+  color: black;
+  text-shadow: 2px 2px 3px #FFB6C1;
+  cursor: context-menu;
+}
+
+.place-list {
+  padding: 0;
+  margin: 10px;
+  overflow: auto;
+  text-align: center;
+}
+
+.search-input {
+  padding: 5px 10px;
+  font-size: 1em;
+  font-weight: 700;
+  text-align: center;
+  color: #778899;
+  text-shadow: -1px 0 #FF1493, 0 1px #FF1493, 1px 0 #FF1493, 0 -1px #FF1493;
+  background-color: #DCDCDC;
+}
+
+.search-box {
+  line-height: 30px;
+  border-radius: 50px;
+  background-color: white;
+  box-shadow: 10px 10px #778899;
+  position: absolute;
+  max-height: 50%;
+  overflow: auto;
+  top: 10px;
+  left: 10px;
+  z-index: 2;
+}
